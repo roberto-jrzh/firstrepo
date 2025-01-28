@@ -1,3 +1,0 @@
-# firstrepo
-
-LAB 1
